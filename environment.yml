@@ -1,0 +1,3 @@
+name: rbdb_spotify_sync
+dependencies:
+  - python=3.8
